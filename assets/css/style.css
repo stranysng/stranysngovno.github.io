@@ -1,0 +1,213 @@
+.kek{
+background: rgba(0, 0, 0, 0.85);
+}
+
+.info{
+	background: rgba(0, 0, 0, 0.6);
+	width: 100%;
+	text-align: justify-all;
+	color: #fff;
+	z-index: 2;
+	text-indent: 1.5em;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-radius: 5px;
+}
+
+
+.martop{
+	margin-top:2.9%;
+}
+
+
+
+.dropmenu{
+	background: rgba(0, 0, 0, 0);
+	border: 0px;
+	color: #fff;
+	cursor: pointer;
+}
+.dropmenu:hover{
+	background: rgba(0, 0, 0, 0);
+	border: 0px;
+	color: #fff;
+}
+
+
+.dropmenuitem{
+	background: rgba(0, 0, 0, 0.85);
+	border: 0px;
+	color: #fff;
+}
+
+.coltext{
+	color: #fff;
+	list-style: #fff;
+	direction: none;
+}
+
+
+
+.infoslider{
+	background: rgba(0, 0, 0, 0.7);
+	text-align: justify-all;
+	color: #fff;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-radius: 5px;
+	width: 45%;
+	margin-left:27%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.lol{
+	background-color: #000;
+	z-index: 15;
+	height: 15px;
+	margin-top:-0.4%;
+}
+
+
+.info1{
+	background: rgba(0, 0, 0, 0.6);
+	text-align: justify-all;
+	color: #fff;
+	z-index: 3;
+	text-indent: 1.5em;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;	
+	padding-top: 2%;
+	border-radius: 5px;
+}
+
+.wid{
+	width: 95.5%;
+}
+
+.gallery {
+  margin-top: 30px;
+  position: relative;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  max-width: 500px;
+  font-size: 20px;
+  z-index: 100;
+  cursor: pointer;
+  transition: 3s linear;
+}
+
+.gallery img:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: 0.6s;
+  z-index: 1000;
+
+}
+
+.gallery img{
+ -moz-transition: all 0.8s ease-out;
+ -o-transition: all 0.8s ease-out;
+ -webkit-transition: all 0.8s ease-out;
+}
+
+.bored{
+	border: 2px solid black;
+}
+
+
+#social { 
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #f2f2f2;
+}
+
+#social i {
+	font-size: 40px;
+	color: #4a4a4a
+}
+
+#social i:hover {
+	color: #1abc9c
+}
+
+
+#footerwrap {
+	padding-top: 70px;
+	padding-bottom: 50px;
+	background-color: #2f2f2f;
+}
+
+#footerwrap p {
+	color: #f2f2f2;
+	margin-left: 10px;
+}
+
+
+.sil {
+    line-height: 1;
+    display: inline-block;
+    color:#ffeb3b;
+    text-decoration:none;
+    cursor: pointer;
+}
+.sil:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color: #ffeb3b;
+    transition: width .3s ease-in-out;
+}
+.sil:hover:after,
+.sil:focus:after {
+    width: 100%;
+}
+
+.strani{
+	font-size: 50px;
+
+}
+.kol{
+	font-size: 38px;
+	
+}
+.kon{
+	font-size: 48px;
+	
+}
+
+.btext{
+	font-size: 24px;
+	color: #26bc9e;
+}
+.imgg{
+	margin-top: 1%;
+	width: 350px;
+	height: 350px;
+	border: 1px solid #000;
+}
+.rig{
+	float: right;
+}
+.lef{
+	float: left;	
+}
+
+
+.map{
+	margin-left:-3.5%;
+	margin-right: 1%;	
+}
+
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 15px 15px 15px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 15px 15px 15px; /* Отступы вокруг картинки */
+   }
+
