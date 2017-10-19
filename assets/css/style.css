@@ -86,10 +86,15 @@ background: rgba(0, 0, 0, 0.85);
 	width: 95.5%;
 }
 
+
+.margr{
+	margin-right: 21.2%;
+}
+
 .gallery {
   margin-top: 30px;
   position: relative;
-  margin: 0 auto;
+  margin: auto auto;
   padding: 10px;
   text-align: center;
   max-width: 500px;
@@ -168,7 +173,7 @@ background: rgba(0, 0, 0, 0.85);
 
 .strani{
 	font-size: 50px;
-
+	text-align: center;
 }
 .kol{
 	font-size: 38px;
@@ -185,8 +190,8 @@ background: rgba(0, 0, 0, 0.85);
 }
 .imgg{
 	margin-top: 1%;
-	width: 350px;
-	height: 350px;
+	width: 40%;
+	height: 40%;
 	border: 1px solid #000;
 }
 .rig{
@@ -211,3 +216,6 @@ background: rgba(0, 0, 0, 0.85);
     margin: 15px 15px 15px; /* Отступы вокруг картинки */
    }
 
+.socaligen{
+	text-align: center;
+}
